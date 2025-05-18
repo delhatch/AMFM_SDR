@@ -10,8 +10,8 @@ sleep 1
 #ip link show lo >> launch.log 2>&1
 
 #echo "Starting the SDR Radio app."
-#python3 AMFM_nosel_v1.py >> launch.log 2>&1 &
-python3 AMFM_nosel_v1.py &
+#python3 AMFM_radio_v1.py >> launch.log 2>&1 &
+python3 AMFM_radio_v1.py &
 #echo "Ended at $(date)" >> launch.log
 
 sleep 10
@@ -21,7 +21,7 @@ sleep 10
 
 #echo "Starting control app at $(date)" >> launch.log
 #echo "Starting the control app."
-#python3 disc_radio_v21.py >> launch.log 2>&1 &
-python3 disc_radio_v21.py &
+#python3 radio_control_v21.py >> launch.log 2>&1 &
+python3 radio_control_v21.py &
 
 #echo "Ended at $(date)" >> launch.log
