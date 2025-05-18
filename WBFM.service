@@ -1,0 +1,20 @@
+[Unit]
+Description=Launches SDR radio app, then the control app.
+After=graphical-session.target network-online.target
+Wants=graphical-session.target network-online.target
+#After=default.target
+
+[Service]
+JoinNamespaces=net
+Type=simple
+ExecStart=/home/drh/launch.sh
+ExecStartPre=/bin/sleep 1
+Environment="DISPLAY=:0"
+Environment="PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games"
+Environment="PYTHONPATH=/usr/lib/python311.zip:/usr/lib/python3.11:/usr/lib/python3.11/lib-dynload:/usr/local/lib/python3.11/dist-packages:/usr/lib/python3/dist-packages:/usr/lib/python3.11/dist-packages"
+Type=forking
+PrivateNetwork=no
+
+[Install]
+WantedBy=graphical-session.target
+#WantedBy=default.target
