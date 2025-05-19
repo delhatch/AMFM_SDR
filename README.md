@@ -59,7 +59,7 @@ Stand-alone radio based on an SDR. No PC required.
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/HighQuality_FM_tuner.jpg" alt="Image 10" height="350">
-                <p>High-quality analog FM tuner, receiving a 1kHz tone from a reference broadcast signal. Higher harmonic distortion because of an analog circuit doing the FM demodulation, but with a quiet noise floor.</p>
+                <p>High-quality analog FM tuner, receiving a 1kHz tone from a reference broadcast signal. Higher harmonic distortion because there is an analog circuit doing the FM demodulation, but with a nice quiet noise floor.</p>
             </td>
         </tr>
     </table>
