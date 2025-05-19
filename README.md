@@ -39,7 +39,7 @@ Stand-alone radio based on an SDR. No PC required.
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/guts2.jpg" alt="Image 6" height="350">
-                <p>Nope. Not good.</p>
+                <p>Nope.</p>
             </td>
         </tr>
         <tr>
