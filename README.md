@@ -13,7 +13,7 @@ Stand-alone radio based on an SDR. No PC required.
                 <p>Main screen showing RF, and post-IF waterfall</p>
             </td>
             <td align="center">
-                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/screen2.jpg" alt="Image 2" width="350">
+                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/screen2.jpg" alt="Image 2" height="350">
                 <p>Shows full baseband audio (L+R,Pilot,L-R,RDS)</p>
             </td>
         </tr>
