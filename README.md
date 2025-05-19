@@ -45,7 +45,7 @@ Stand-alone radio based on an SDR. No PC required.
         <tr>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/stack1.jpg" alt="Image 7" height="350">
-                <p>Rasp Pi 5 at bottom, then custom interface board above that, with Pi-DAC+ board on top.</p>
+                <p>Rasp Pi 5 at bottom, then custom interface board above that (with green phoenix connectors), with Pi-DAC+ board on top.</p>
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/stack2.jpg" alt="Image 8" height="350">
