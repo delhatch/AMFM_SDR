@@ -9,12 +9,12 @@ Stand-alone radio based on an SDR. No PC required.
  <table border="0" cellpadding="10" align="left" width="600">
         <tr>
             <td align="center">
-                <img src="image1.jpg" alt="Image 1" width="100%">
-                <p>Subtitle for Image 1</p>
+                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/topScreen.jpg" alt="Image 1" height="350">
+                <p>Main screen showing RF, and post-IF waterfall</p>
             </td>
             <td align="center">
-                <img src="image2.jpg" alt="Image 2" width="100%">
-                <p>Subtitle for Image 2</p>
+                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/screen2.jpg" alt="Image 2" width="350">
+                <p>Shows full baseband audio (L+R,Pilot,L-R,RDS)</p>
             </td>
         </tr>
         <tr>
