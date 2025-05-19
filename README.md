@@ -43,12 +43,12 @@ Stand-alone radio based on an SDR. No PC required.
         </tr>
         <tr>
             <td align="center">
-                <img src="image7.jpg" alt="Image 7" width="100%">
-                <p>Subtitle for Image 7</p>
+                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/stack1.jpg" alt="Image 7" height="350">
+                <p>Rasp Pi 5 at bottom, then custom interface board, with Pi-Dac+ on top.</p>
             </td>
             <td align="center">
-                <img src="image8.jpg" alt="Image 8" width="100%">
-                <p>Subtitle for Image 8</p>
+                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/stack2.jpg" alt="Image 8" height="350">
+                <p>Another view of the stack.</p>
             </td>
         </tr>
     </table>
