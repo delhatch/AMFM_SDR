@@ -14,11 +14,11 @@ Stand-alone radio based on an SDR. No PC required.
         <tr>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/topScreen.jpg" alt="Image 1" height="350">
-                <p>Main screen showing RF, and post-IF waterfall</p>
+                <p>Main screen showing RF signal at top. Lower portion is a waterfall of the post-IF signal.</p>
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/screen2.jpg" alt="Image 2" height="350">
-                <p>Shows full baseband audio (L+R,Pilot,L-R,RDS). Lower portion is L vs. R audioScope</p>
+                <p>Shows full baseband audio (L+R,Pilot,L-R,RDS). Lower portion is L vs. R AudioScope</p>
             </td>
         </tr>
         <tr>
@@ -28,7 +28,7 @@ Stand-alone radio based on an SDR. No PC required.
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/screenMono.jpg" alt="Image 4" height="350">
-                <p>An FM station broadcasting a Mono audio signal. (But with the stereo pilot signal on.)</p>
+                <p>An FM station broadcasting a Mono audio signal. (With the stereo pilot signal on.)</p>
             </td>
         </tr>
         <tr>
@@ -38,13 +38,13 @@ Stand-alone radio based on an SDR. No PC required.
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/guts2.jpg" alt="Image 6" height="350">
-                <p>Nope. Not good. At all.</p>
+                <p>Nope. Not good.</p>
             </td>
         </tr>
         <tr>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/stack1.jpg" alt="Image 7" height="350">
-                <p>Rasp Pi 5 at bottom, then custom interface board, with Pi-Dac+ on top.</p>
+                <p>Rasp Pi 5 at bottom, then custom interface board, with Pi-DAC+ board on top.</p>
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/stack2.jpg" alt="Image 8" height="350">
@@ -54,11 +54,11 @@ Stand-alone radio based on an SDR. No PC required.
           <tr>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/SDR_tuner.jpg" alt="Image 9" height="350">
-                <p>This SDR tuner, receiving a 1kHz tone from a reference broadcast signal. Very low harmonic distortion, "grassy" noise floor.</p>
+                <p>This SDR tuner, receiving a 1kHz tone from a reference broadcast signal. Very low harmonic distortion, "grassy" noise floor because of the digital signal processing.</p>
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/HighQuality_FM_tuner.jpg" alt="Image 10" height="350">
-                <p>High-quality analog FM tuner, receiving a 1kHz tone from a reference broadcast signal. Higher harmonic distortion, but with a quiet noise floor.</p>
+                <p>High-quality analog FM tuner, receiving a 1kHz tone from a reference broadcast signal. Higher harmonic distortion because of an analog circuit doing the FM demodulation, but with a quiet noise floor.</p>
             </td>
         </tr>
     </table>
