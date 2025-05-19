@@ -28,17 +28,17 @@ Stand-alone radio based on an SDR. No PC required.
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/screenMono.jpg" alt="Image 4" height="350">
-                <p>An FM station broadcasting in Mono. (But with the stereo pilot signal on.)</p>
+                <p>An FM station broadcasting a Mono audio signal. (But with the stereo pilot signal on.)</p>
             </td>
         </tr>
         <tr>
             <td align="center">
-                <img src="image5.jpg" alt="Image 5" width="100%">
-                <p>Subtitle for Image 5</p>
+                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/guts1.jpg" alt="Image 5" height="350">
+                <p>I'm not proud of this.</p>
             </td>
             <td align="center">
-                <img src="image6.jpg" alt="Image 6" width="100%">
-                <p>Subtitle for Image 6</p>
+                <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/guts2.jpg" alt="Image 6" height="350">
+                <p>Nope. Not good. At all.</p>
             </td>
         </tr>
         <tr>
