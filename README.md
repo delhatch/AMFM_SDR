@@ -54,7 +54,7 @@ Stand-alone radio based on an SDR. No PC required.
           <tr>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/SDR_tuner.jpg" alt="Image 9" height="350">
-                <p>This SDR tuner, receiving a 1kHz tone from a reference broadcast signal. Very low harmonic distortion, "grassy" noise floor because of the digital signal processing.</p>
+                <p>This SDR tuner, receiving a 1kHz tone from a reference broadcast signal. Very low harmonic distortion, but "grassy" noise floor because of the digital signal processing.</p>
             </td>
             <td align="center">
                 <img src="https://github.com/delhatch/AMFM_SDR/blob/main/pictures/HighQuality_FM_tuner.jpg" alt="Image 10" height="350">
